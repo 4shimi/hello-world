@@ -35,3 +35,5 @@
 - most important is do not afraid!
 
 ## 소스트리는 초기화가 됐느냐!
+
+## = failed
