@@ -53,4 +53,7 @@ cons : dirty
  
  ## etc commit
 
- #stash
+ # stash
+
+ # 주석 너무 많이 금지
+ # 커밋 메세지 잘  달자
