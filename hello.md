@@ -47,3 +47,6 @@
 pro : easy
     : good for save information
 cons : dirty
+
+## revert
+- 단점 : 충돌 가능
