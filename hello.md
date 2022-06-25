@@ -42,3 +42,8 @@
 
 - pro: easy
 - cons: remove & cannot come back
+
+# using branch for return
+pro : easy
+    : good gor save information
+cons : dirty
