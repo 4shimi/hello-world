@@ -42,3 +42,8 @@
 
 - pro: easy
 - cons: remove & cannot come back
+
+## branch 만들어서 되돌리기
+
+pro : easy
+cons : dirty
