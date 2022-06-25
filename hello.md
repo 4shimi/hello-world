@@ -37,3 +37,8 @@
 ## 소스트리는 초기화가 됐느냐!
 
 ## = failed
+
+## reset 사용하기
+
+- pro: easy
+- cons: remove & cannot come back
