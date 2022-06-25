@@ -45,5 +45,5 @@
 
 # using branch for return
 pro : easy
-    : good for save information
+    : good gor save information
 cons : dirty
