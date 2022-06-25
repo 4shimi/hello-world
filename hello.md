@@ -43,8 +43,7 @@
 - pro: easy
 - cons: remove & cannot come back
 
-## branch 만들어서 되돌리기
-
+# using branch for return
 pro : easy
     : good gor save information
 cons : dirty
