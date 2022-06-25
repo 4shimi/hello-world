@@ -50,3 +50,5 @@ cons : dirty
 
 ## revert
 - 단점 : 충돌 가능
+ 
+ ## etc commit
