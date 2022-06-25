@@ -46,4 +46,5 @@
 ## branch 만들어서 되돌리기
 
 pro : easy
+    : good gor save information
 cons : dirty
