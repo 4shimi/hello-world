@@ -33,3 +33,5 @@
 
 ## 충돌 해결하기
 - most important is do not afraid!
+
+## 소스트리는 초기화가 됐느냐!
