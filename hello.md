@@ -48,7 +48,7 @@ pro : easy
     : good for save information
 cons : dirty
 
-## revert
+## revert  s
 - 단점 : 충돌 가능
  
  ## etc commit
